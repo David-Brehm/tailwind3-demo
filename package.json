@@ -1,0 +1,24 @@
+{
+  "name": "tailwind3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Brehm/tailwind3-demo.git"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Brehm/tailwind3-demo/issues"
+  },
+  "homepage": "https://github.com/David-Brehm/tailwind3-demo#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.10"
+  }
+}
